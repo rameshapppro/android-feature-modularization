@@ -21,3 +21,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "NewPluse"
 include(":app")
+include(":core:model")
+include(":core:domain")
+include(":core:data")
+include(":feature:news")
+include(":feature:search")
